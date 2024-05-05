@@ -25,6 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JalinaH&layout=compact&theme=prussian&hide_border=true)
 
+![Jalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=JalinaH&show_icons=true&theme=prussian&hide_border=true)
+
 [linkedin]: https://www.linkedin.com/in/jalina-hirushan-85402825b "Jalina Hirushan LinkedIn"
 
 <!---
