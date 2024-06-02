@@ -5,10 +5,6 @@
 - 📫 Connect with me on **[LinkedIn]**
 - ⚡ Fun fact: Cricket fan🏏 Also watch movies and TV series in leisure time 🎥🍿
 
-<!---
-Akith-002/Akith-002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## 🔧 Technologies & Tools
 <div >
