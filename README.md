@@ -5,6 +5,8 @@
 - 📫 Connect with me on **[LinkedIn]**
 - ⚡ Fun fact: Cricket fan🏏 Also watch movies and TV series in leisure time 🎥🍿
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=JalinaH&label=Profile%20views&color=0e75b6&style=flat" alt="JalinaH" /></p>
+
 
 ## 🔧 Technologies & Tools
 <div >
