@@ -27,7 +27,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JalinaH&layout=compact&theme=prussian&hide_border=true)
 
-![Top Langs](https://streak-stats.demolab.com/?user=JalinaH&theme=dark)
+![GItHub Stats](https://github-readme-stats.vercel.app/api?username=JalinaH&show_icons=true&theme=prussian&hide_border=true)
 
 [linkedin]: https://www.linkedin.com/in/jalina-hirushan-85402825b "Jalina Hirushan LinkedIn"
 
