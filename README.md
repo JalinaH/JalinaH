@@ -29,15 +29,15 @@
 ---
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=JalinaH&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=JalinaH&theme=dark">
 </p>
 
 ---
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=JalinaH&show_icons=true&theme=vision-friendly-dark">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalinaH&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JalinaH&show_icons=true&theme=prussian&hide_border=true" alt="GitHub Stats" width="500" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalinaH&layout=compact&theme=prussian&hide_border=true" alt="Top Languages" width="600" height="200">
+</div>
 
 ---
 
