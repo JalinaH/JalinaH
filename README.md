@@ -5,7 +5,8 @@
 - 📫 Connect with me on **[LinkedIn]**
 - ⚡ Fun fact: Cricket fan🏏 Also watch movies and TV series in leisure time 🎥🍿
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=JalinaH&label=Profile%20views&color=0e75b6&style=flat" alt="JalinaH" /></p>
+
+---
 
 
 ## 🔧 Technologies & Tools
@@ -25,9 +26,24 @@
 </div>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JalinaH&layout=compact&theme=prussian&hide_border=true)
+---
 
-![GItHub Stats](https://github-readme-stats.vercel.app/api?username=JalinaH&show_icons=true&theme=prussian&hide_border=true)
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=JalinaH&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+---
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=JalinaH&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalinaH&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+---
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=JalinaH&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 [linkedin]: https://www.linkedin.com/in/jalina-hirushan-85402825b "Jalina Hirushan LinkedIn"
 
