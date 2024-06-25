@@ -28,12 +28,6 @@
 
 ---
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=JalinaH&theme=dark">
-</p>
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JalinaH&show_icons=true&theme=prussian&hide_border=true" alt="GitHub Stats" width="500" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalinaH&layout=compact&theme=prussian&hide_border=true" alt="Top Languages" width="600" height="200">
